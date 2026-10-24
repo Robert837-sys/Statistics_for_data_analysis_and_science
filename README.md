@@ -89,6 +89,6 @@ Anyone starting out in data analytics or data science who wants to understand th
 ## Author
 
 **Robert Owuor Agie**
-Final-year Computer Science student (Data Analytics), University of Eldoret, Kenya
+Computer Science (Data Analytics), University of Eldoret, Kenya. Graduating in 2026.
 
 GitHub: [Robert837-sys](https://github.com/Robert837-sys)
